@@ -1,37 +1,16 @@
 ## Life is Cash 天天省錢
 
-You can use the [editor on GitHub](https://github.com/pohchen/ganbow/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 數位銀行利率
 
-### Markdown
+| 銀行                | 優惠利率 | 額度上限 | 活動期限 | 備註               |
+|---------------------|----------|----------|----------|--------------------|
+| 王道數位銀行        | 1.3%     | 30萬     | 20190303 | 每個人活動時間不同 |
+| 兆豐數位銀行        | 1.2%     | 10萬     | 20190630 |                    |
+| 新光數位銀行        | 1.6%     | 20萬     | 20190630 | line儲值解任務     |
+| 聯邦數位銀行        | 1%       | 10萬     | 20190720 |                    |
+| 華南SnY數位銀行     | 1.1%     | 10萬     | 20191231 |                    |
+| 彰化數位銀行        | 1.1%     | 10萬     | 20191231 |                    |
+| 台新Richart數位銀行 | 1%       | 100萬    | 20191231 |                    |
+| 星展數位銀行        | 1.1%     | 10萬     | 20190531 |                    |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pohchen/ganbow/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
